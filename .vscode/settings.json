@@ -1,0 +1,8 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "files.associations": {
+        "lv_disp.h": "c",
+        "lv_timer.h": "c",
+        "ui_helpers.h": "c"
+    }
+}

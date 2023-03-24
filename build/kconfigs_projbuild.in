@@ -1,0 +1,6 @@
+source "D:/Users/chery/esp/Espressif/frameworks/esp-idf-v4.4.3/components/app_update/Kconfig.projbuild"
+source "D:/Users/chery/esp/Espressif/frameworks/esp-idf-v4.4.3/components/bootloader/Kconfig.projbuild"
+source "D:/Users/chery/esp/Espressif/frameworks/esp-idf-v4.4.3/components/esp_rom/Kconfig.projbuild"
+source "D:/Users/chery/esp/Espressif/frameworks/esp-idf-v4.4.3/components/esptool_py/Kconfig.projbuild"
+source "D:/Users/chery/esp/Espressif/frameworks/esp-idf-v4.4.3/components/partition_table/Kconfig.projbuild"
+source "D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/components/lvgl_gc9a01/Kconfig.projbuild"

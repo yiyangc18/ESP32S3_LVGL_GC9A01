@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/build/CMakeFiles/bootloader
+D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/build/CMakeFiles/bootloader.rule
+D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/build/CMakeFiles/bootloader-complete.rule
+D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/M_EMBEDDED/LVGL/ESP32/ESP32S3_LVGL_GC9A01/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
